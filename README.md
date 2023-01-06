@@ -1,2 +1,2 @@
-# Fiona Powers Ozyurt website
+# Fiona Powers Ozyurt
 personal website
